@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="102139" started-at="2020-02-24T05:33:07Z" finished-at="2020-02-24T05:34:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="102139" started-at="2020-02-24T05:33:07Z" finished-at="2020-02-24T05:34:49Z">
+      <class name="simpleScript.LaunchBrowser">
+        <test-method status="PASS" signature="LaunchBrowser()[pri:0, instance:simpleScript.LaunchBrowser@51081592]" name="LaunchBrowser" duration-ms="102116" started-at="2020-02-24T11:03:07Z" finished-at="2020-02-24T11:04:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+      </class> <!-- simpleScript.LaunchBrowser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
